@@ -20,6 +20,13 @@ body {
   font-family: Arial, sans-serif;
   color: var(--text-color);
   background-color: var(--bg-color);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
 }
 header {
   display: flex;
@@ -107,7 +114,6 @@ footer {
   display: flex;
   justify-content: space-around;
   padding: 2rem;
-  margin-top: 3rem;
 }
 .contact-info,
 .payment-methods {
