@@ -1,14 +1,31 @@
 # 🎂 Bolo Delicioso
 
-> E-commerce de confeitaria artesanal — projeto de conclusão de curso
+> Projeto de Conclusão de Curso — Escola Técnica de Ceilândia (ETC) 2024
 
 ---
 
 ## 📖 Sobre o Projeto
 
-O **Bolo Delicioso** é um site de e-commerce voltado para a venda de bolos e doces artesanais. Desenvolvido como projeto de conclusão de curso, o site conta com uma interface amigável, navegação intuitiva e layout responsivo utilizando Bootstrap.
+O **Bolo Delicioso** é um site de e-commerce voltado para a venda de bolos e doces artesanais, desenvolvido em 2024 como projeto de conclusão de curso na **Escola Técnica de Ceilândia (ETC)**.
+
+O projeto foi desenvolvido de forma individual e, embora não tenha chegado a ser apresentado — por circunstâncias alheias ao autor, que acabou sendo realocado para auxiliar outro grupo —, representa um trabalho real com dedicação e esforço. O site conta com uma interface amigável, navegação intuitiva, layout responsivo com Bootstrap e diversas páginas desenvolvidas do zero.
+
+O projeto está hospedado e funcionando via GitHub Pages como registro desse trabalho.
 
 🔗 **Acesse o site:** [adrianolis.github.io/bolo-delicioso](https://adrianolis.github.io/bolo-delicioso/)
+
+---
+
+## 📌 Status do Projeto
+
+⚠️ **Não finalizado** — o projeto foi interrompido antes da apresentação final por conta de uma realocação de grupo durante o curso. O código aqui presente representa o estado do desenvolvimento até esse ponto, com páginas funcionais e estilizadas.
+
+---
+
+## 👤 Autor
+
+**Adriano Lisarb Guzman Moura Batista**
+Escola Técnica de Ceilândia (ETC) — 2024
 
 ---
 
@@ -94,20 +111,16 @@ bolo-delicioso/
 
 ## 🚀 Como Visualizar
 
+### Online
 Acesse diretamente pelo link do deploy:
 **[adrianolis.github.io/bolo-delicioso](https://adrianolis.github.io/bolo-delicioso/)**
 
----
-
-## 📌 Status do Projeto
-
-🚧 **Em desenvolvimento** — projeto criado como trabalho acadêmico de conclusão de curso, representando uma versão inicial do e-commerce.
-
----
-
-## 👤 Autor
-
-Feito com carinho como projeto de conclusão de curso.
+### Localmente
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/adrianolis/bolo-delicioso.git
+   ```
+2. Abra o arquivo `index.html` diretamente no navegador.
 
 ---
 
