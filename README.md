@@ -12,7 +12,7 @@ O projeto foi desenvolvido de forma individual e, embora não tenha chegado a se
 
 O projeto está hospedado e funcionando via GitHub Pages como registro desse trabalho.
 
-🔗 **Acesse o site:** [adrianolis.github.io/bolo-delicioso](https://adrianolis.github.io/bolo-delicioso/)
+🔗 **Acesse o site:** [adrianolis.github.io/bolo-delicioso-etc-2024](https://adrianolis.github.io/bolo-delicioso-etc-2024/)
 
 ---
 
@@ -57,7 +57,7 @@ Escola Técnica de Ceilândia (ETC) — 2024
 ## 📁 Estrutura de Arquivos
 
 ```
-bolo-delicioso/
+bolo-delicioso-etc-2024/
 │
 ├── — Páginas HTML —
 ├── index.html
@@ -113,12 +113,12 @@ bolo-delicioso/
 
 ### Online
 Acesse diretamente pelo link do deploy:
-**[adrianolis.github.io/bolo-delicioso](https://adrianolis.github.io/bolo-delicioso/)**
+**[adrianolis.github.io/bolo-delicioso-etc-2024](https://adrianolis.github.io/bolo-delicioso-etc-2024/)**
 
 ### Localmente
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/adrianolis/bolo-delicioso.git
+   git clone https://github.com/adrianolis/bolo-delicioso-etc-2024.git
    ```
 2. Abra o arquivo `index.html` diretamente no navegador.
 
